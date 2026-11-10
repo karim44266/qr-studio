@@ -2,6 +2,8 @@
 
 Générateur de QR codes en français, responsive, réalisé avec React, TypeScript et Vite.
 
+**[Ouvrir la démo en ligne](https://karim44266.github.io/qr-studio/)**
+
 ## Fonctionnalités
 
 - Texte et URL HTTP(S).
